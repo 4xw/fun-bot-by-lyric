@@ -13,7 +13,6 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "genius-lyrics": "^4.1.4",
-    "jimp": "^0.16.1",
     "mal-scraper": "^2.11.2",
     "moment": "^2.29.1",
     "ms": "^2.1.3",
